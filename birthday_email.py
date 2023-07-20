@@ -6,8 +6,8 @@ import os
 import sys
 
 #My email details
-MY_EMAIL = "ingridsollim@gmail.com"
-PASSWORD = "lumlwojdwiyqraqc"
+MY_EMAIL = "xxxxxxx@gmail.com"
+PASSWORD = "*********"
 
 #TODO 1: Create function to send email
 def email_sender(message,email_receiver):
